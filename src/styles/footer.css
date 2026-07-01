@@ -1,0 +1,21 @@
+.footer{
+
+    background:#0F172A;
+
+    color:white;
+
+    margin-top:60px;
+
+    padding:25px;
+
+    text-align:center;
+
+}
+
+.page-container{
+
+    min-height:80vh;
+
+    padding:40px 0;
+
+}
